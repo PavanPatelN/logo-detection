@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 
 # BrandVis-AI Powered Brand Visibility Analysis
 Brands need to understand how their logo appears and performs in video content across various platforms.  Traditional methods of manual analysis are time-consuming, inefficient, and prone to human error. This limits the ability to gain accurate and timely insights into brand visibility, measure the effectiveness of marketing campaigns, and protect brand reputation.
