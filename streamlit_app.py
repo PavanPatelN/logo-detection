@@ -7,7 +7,7 @@ import os
 model_path = "runs/detect/train/weights/best.pt"  # Update if needed
 model = YOLO(model_path)
 
-st.title("Logo Detection App")
+st.title("Video Logo Detection and Analysis (Pavan)")
 
 # Sidebar with options
 st.sidebar.title("Options")
